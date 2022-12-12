@@ -1,2 +1,3 @@
 # oplab-r-shiny-web-app
-Script que cria um web app puxando dados da API e criando painéis interativos com React.
+Script em R que cria um web app puxando dados da API e criando painéis interativos com React.
+Requirements: httr,shiny,hash,shinythemes,bslib,thematic,infotheo
